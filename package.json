@@ -1,0 +1,24 @@
+{
+  "name": "obstruct",
+  "version": "0.0.0",
+  "description": "Object > Constructor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/allouis/obstruct.git"
+  },
+  "keywords": [
+    "inheritance",
+    "class",
+    "extend"
+  ],
+  "author": "Fabien O'Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/obstruct/issues"
+  },
+  "homepage": "https://github.com/allouis/obstruct"
+}
