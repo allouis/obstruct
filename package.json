@@ -1,6 +1,6 @@
 {
   "name": "obstruct",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Object > Constructor",
   "main": "index.js",
   "scripts": {
